@@ -35,6 +35,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lapport/lapport/output/snake.svg" alt="Snake animation" />
+<img src="https://lapport.github.io/lapport/snake.svg" alt="Snake animation" />
+
 
 ###
